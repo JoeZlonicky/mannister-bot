@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:Data::ICal 0.23
+X-PUBLISHED-TTL:1440
+X-WR-CALDESC:Solid Waste
+X-WR-CALNAME:1681 Mckenzie Ave\, Victoria
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200206
+SUMMARY:Recycling
+UID:2020-02-06-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200220
+SUMMARY:Recycling
+UID:2020-02-20-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200305
+SUMMARY:Recycling
+UID:2020-03-05-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200319
+SUMMARY:Recycling
+UID:2020-03-19-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200402
+SUMMARY:Recycling
+UID:2020-04-02-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200416
+SUMMARY:Recycling
+UID:2020-04-16-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200430
+SUMMARY:Recycling
+UID:2020-04-30-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200514
+SUMMARY:Recycling
+UID:2020-05-14-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200528
+SUMMARY:Recycling
+UID:2020-05-28-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200611
+SUMMARY:Recycling
+UID:2020-06-11-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200625
+SUMMARY:Recycling
+UID:2020-06-25-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200709
+SUMMARY:Recycling
+UID:2020-07-09-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200723
+SUMMARY:Recycling
+UID:2020-07-23-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200806
+SUMMARY:Recycling
+UID:2020-08-06-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200820
+SUMMARY:Recycling
+UID:2020-08-20-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200903
+SUMMARY:Recycling
+UID:2020-09-03-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20200917
+SUMMARY:Recycling
+UID:2020-09-17-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201001
+SUMMARY:Recycling
+UID:2020-10-01-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201015
+SUMMARY:Recycling
+UID:2020-10-15-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201029
+SUMMARY:Recycling
+UID:2020-10-29-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201112
+SUMMARY:Recycling
+UID:2020-11-12-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201126
+SUMMARY:Recycling
+UID:2020-11-26-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201210
+SUMMARY:Recycling
+UID:2020-12-10-CRD-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recycling - *Reminder to place your clean recyclables out in th
+ ese three streams: 1. Glass bottles and jars (labels OK\, place lids in th
+ e container stream) 2. Paper\, cardboard\, paper packaging (eg. egg carton
+ s\, cereal boxes) 3. Metal\, plastic and paper containers (eg. cans\, milk
+  cartons\, to-go cups). This helps to reduce contamination and ensure that
+  materials continue to have an end market. More info at www.crd.bc.ca/curb
+ side
+DTSTART;VALUE=DATE:20201224
+SUMMARY:Recycling
+UID:2020-12-24-CRD-waste-@recollect.net
+END:VEVENT
+END:VCALENDAR

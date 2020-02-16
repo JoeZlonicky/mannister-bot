@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:Data::ICal 0.23
+X-PUBLISHED-TTL:1440
+X-WR-CALDESC:Solid Waste and Recycling
+X-WR-CALNAME:1681 Mckenzie Ave\, Victoria\, Unit A
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200131
+SUMMARY:Garbage cart and organics
+UID:2020-01-31-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200214
+SUMMARY:Garbage cart and organics
+UID:2020-02-14-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200228
+SUMMARY:Garbage cart and organics
+UID:2020-02-28-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200313
+SUMMARY:Garbage cart and organics
+UID:2020-03-13-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200327
+SUMMARY:Garbage cart and organics
+UID:2020-03-27-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200410
+SUMMARY:Garbage cart and organics
+UID:2020-04-10-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200424
+SUMMARY:Garbage cart and organics
+UID:2020-04-24-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200508
+SUMMARY:Garbage cart and organics
+UID:2020-05-08-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200522
+SUMMARY:Garbage cart and organics
+UID:2020-05-22-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200605
+SUMMARY:Garbage cart and organics
+UID:2020-06-05-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200619
+SUMMARY:Garbage cart and organics
+UID:2020-06-19-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200703
+SUMMARY:Garbage cart and organics
+UID:2020-07-03-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200717
+SUMMARY:Garbage cart and organics
+UID:2020-07-17-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200731
+SUMMARY:Garbage cart and organics
+UID:2020-07-31-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200814
+SUMMARY:Garbage cart and organics
+UID:2020-08-14-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200828
+SUMMARY:Garbage cart and organics
+UID:2020-08-28-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200911
+SUMMARY:Garbage cart and organics
+UID:2020-09-11-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20200925
+SUMMARY:Garbage cart and organics
+UID:2020-09-25-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201009
+SUMMARY:Garbage cart and organics
+UID:2020-10-09-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201023
+SUMMARY:Garbage cart and organics
+UID:2020-10-23-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201106
+SUMMARY:Garbage cart and organics
+UID:2020-11-06-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201120
+SUMMARY:Garbage cart and organics
+UID:2020-11-20-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201204
+SUMMARY:Garbage cart and organics
+UID:2020-12-04-Saanich-waste-@recollect.net
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garbage cart and organics
+DTSTART;VALUE=DATE:20201218
+SUMMARY:Garbage cart and organics
+UID:2020-12-18-Saanich-waste-@recollect.net
+END:VEVENT
+END:VCALENDAR

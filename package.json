@@ -1,0 +1,10 @@
+{
+	"name": "mannister-bot",
+	"version": "1.0.0",
+	"description": "A faithful servant",
+	"main": "bot.js",
+	"author": "Joe Zlonicky",
+	"dependencies": {
+		"discord.js": "^11.5.1"
+	}
+}
