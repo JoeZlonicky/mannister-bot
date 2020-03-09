@@ -2,6 +2,7 @@ const { Client } = require('discord.js');
 const RegexCommand = require('./regex-command.js');
 const DiceCommand = require('./commands/dice.js');
 const { NextGarbageCommand, NextRecyclingCommand } = require('./commands/garbage.js');
+const WeNeedCommand = require('./commands/we-need');
 const auth = require('./auth.json');
 const basic_commands = require('./basic-commands.json');
 
@@ -25,7 +26,8 @@ client.on('ready', () => {
     // Add unique commands
     commands.push(new DiceCommand(),
         new NextGarbageCommand(),
-        new NextRecyclingCommand());
+        new NextRecyclingCommand(),
+        new WeNeedCommand());
 
     // All ready
     console.log('Mannister bot reporting for duty');

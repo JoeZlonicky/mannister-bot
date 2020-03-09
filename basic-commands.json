@@ -1,5 +1,13 @@
 {
-  "^!hello$": "Suh dude",
+  "^!((hello)|(hi)|(hey)|(sup))$": "Suh dude",
+  "^!(goodbye|bye)$": "See ya later, alligator",
   "^!bruh$": "Bruh yourself",
+  "^!joe$": "The almighty one",
+  "^!davis$": "*Max... Power*",
+  "^!matthias$": ";)",
+  "^!hunter$": "Such big pants",
+  "^!thayne$": "Get back in your own hole",
+  "^!noah$": "Need a modern-day viking? I Noah guy",
+  "^!badbot$": "Hey, I'm trying my best",
   "^!goodbot$": "*Wags tail*"
 }

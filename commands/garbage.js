@@ -1,4 +1,5 @@
 fs = require('fs');
+df = require('../date_formatting');
 RegexCommand = require("../regex-command.js");
 
 // Determines the next date in a given ics file
@@ -18,7 +19,7 @@ class NextDate extends RegexCommand {
             if (date == null) {
                 channel.send("Sorry, I was unable to compute the next date");
             } else {
-                channel.send(`The next date is ${date.getFullYear()}, ${date.getMonth() + 1}, ${date.getDate()}`);
+                channel.send(`The next date is ${df.format(date)}`);
             }
         });
     }

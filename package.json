@@ -5,6 +5,7 @@
 	"main": "bot.js",
 	"author": "Joe Zlonicky",
 	"dependencies": {
-		"discord.js": "^11.5.1"
+		"discord.js": "^11.5.1",
+		"mariadb": "^2.2.0"
 	}
 }

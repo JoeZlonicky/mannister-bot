@@ -1,6 +1,7 @@
 const RegexCommand = require('../regex-command.js');
 
 class DiceCommand extends RegexCommand {
+
     constructor() {
         super('^!(\\d*)d(\\d+)$');  // Looks for mdn or dn where n, m are integers
     }
